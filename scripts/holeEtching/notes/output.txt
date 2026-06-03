@@ -1,0 +1,135 @@
+model/PCNO_holeEtching_model_fixradius_500.pth
+
+
+New model : n_train = 500 , equal_weight = False , train_distribution = fixradius , train_inv_L_scale = False
+average_rel_l2_of fixradius :   0.00644
+average_rel_l2_of radius :   0.04815
+
+1th_worst_rel_l2_of fixradius :   0.02505  index :  3808
+1th_worst_rel_l2_of radius :   0.11884  index :  4041
+
+medium_rel_l2_of fixradius :  0.0055  index :  3968
+medium_rel_l2_of radius :  0.04737  index :  3843
+
+1th_best_rel_l2_of fixradius :   0.00225  index :  4106
+1th_best_rel_l2_of radius :   0.00625  index :  3735
+model/PCNO_holeEtching_model_fixradius_1000.pth
+
+
+New model : n_train = 1000 , equal_weight = False , train_distribution = fixradius , train_inv_L_scale = False
+average_rel_l2_of fixradius :   0.00543
+average_rel_l2_of radius :   0.04795
+
+1th_worst_rel_l2_of fixradius :   0.02186  index :  3696
+1th_worst_rel_l2_of radius :   0.11962  index :  4041
+
+medium_rel_l2_of fixradius :  0.0044  index :  3972
+medium_rel_l2_of radius :  0.04815  index :  4035
+
+1th_best_rel_l2_of fixradius :   0.00212  index :  4106
+1th_best_rel_l2_of radius :   0.00597  index :  3735
+model/PCNO_holeEtching_model_fixradius_1500.pth
+
+
+New model : n_train = 1500 , equal_weight = False , train_distribution = fixradius , train_inv_L_scale = False
+average_rel_l2_of fixradius :   0.00539
+average_rel_l2_of radius :   0.04804
+
+1th_worst_rel_l2_of fixradius :   0.02191  index :  3696
+1th_worst_rel_l2_of radius :   0.11986  index :  4041
+
+medium_rel_l2_of fixradius :  0.00451  index :  4178
+medium_rel_l2_of radius :  0.04828  index :  4103
+
+1th_best_rel_l2_of fixradius :   0.00196  index :  3840
+1th_best_rel_l2_of radius :   0.00591  index :  4067
+model/PCNO_holeEtching_model_radius_500.pth
+
+
+New model : n_train = 500 , equal_weight = False , train_distribution = radius , train_inv_L_scale = False
+average_rel_l2_of fixradius :   0.0112
+average_rel_l2_of radius :   0.01229
+
+1th_worst_rel_l2_of fixradius :   0.08502  index :  3808
+1th_worst_rel_l2_of radius :   0.06828  index :  3805
+
+medium_rel_l2_of fixradius :  0.00992  index :  3708
+medium_rel_l2_of radius :  0.00928  index :  4047
+
+1th_best_rel_l2_of fixradius :   0.0054  index :  3748
+1th_best_rel_l2_of radius :   0.003  index :  3811
+model/PCNO_holeEtching_model_radius_1000.pth
+
+
+New model : n_train = 1000 , equal_weight = False , train_distribution = radius , train_inv_L_scale = False
+average_rel_l2_of fixradius :   0.00976
+average_rel_l2_of radius :   0.01026
+
+1th_worst_rel_l2_of fixradius :   0.02359  index :  3808
+1th_worst_rel_l2_of radius :   0.04937  index :  3719
+
+medium_rel_l2_of fixradius :  0.00946  index :  3692
+medium_rel_l2_of radius :  0.00806  index :  4139
+
+1th_best_rel_l2_of fixradius :   0.00517  index :  4154
+1th_best_rel_l2_of radius :   0.00251  index :  3735
+model/PCNO_holeEtching_model_radius_1500.pth
+
+
+New model : n_train = 1500 , equal_weight = False , train_distribution = radius , train_inv_L_scale = False
+average_rel_l2_of fixradius :   0.01014
+average_rel_l2_of radius :   0.00983
+
+1th_worst_rel_l2_of fixradius :   0.02813  index :  3808
+1th_worst_rel_l2_of radius :   0.04094  index :  4113
+
+medium_rel_l2_of fixradius :  0.00983  index :  4084
+medium_rel_l2_of radius :  0.00733  index :  3901
+
+1th_best_rel_l2_of fixradius :   0.00586  index :  4154
+1th_best_rel_l2_of radius :   0.00257  index :  3735
+model/PCNO_holeEtching_model_mixed_500.pth
+
+
+New model : n_train = 500 , equal_weight = False , train_distribution = mixed , train_inv_L_scale = False
+average_rel_l2_of fixradius :   0.00756
+average_rel_l2_of radius :   0.01208
+
+1th_worst_rel_l2_of fixradius :   0.10372  index :  3808
+1th_worst_rel_l2_of radius :   0.07195  index :  3805
+
+medium_rel_l2_of fixradius :  0.00587  index :  3708
+medium_rel_l2_of radius :  0.00971  index :  3689
+
+1th_best_rel_l2_of fixradius :   0.00234  index :  3850
+1th_best_rel_l2_of radius :   0.00329  index :  3745
+model/PCNO_holeEtching_model_mixed_1000.pth
+
+
+New model : n_train = 1000 , equal_weight = False , train_distribution = mixed , train_inv_L_scale = False
+average_rel_l2_of fixradius :   0.00613
+average_rel_l2_of radius :   0.01091
+
+1th_worst_rel_l2_of fixradius :   0.02179  index :  3666
+1th_worst_rel_l2_of radius :   0.06112  index :  3737
+
+medium_rel_l2_of fixradius :  0.00517  index :  4036
+medium_rel_l2_of radius :  0.00841  index :  4003
+
+1th_best_rel_l2_of fixradius :   0.00224  index :  4106
+1th_best_rel_l2_of radius :   0.00289  index :  3811
+model/PCNO_holeEtching_model_mixed_1500.pth
+
+
+New model : n_train = 1500 , equal_weight = False , train_distribution = mixed , train_inv_L_scale = False
+average_rel_l2_of fixradius :   0.00579
+average_rel_l2_of radius :   0.01016
+
+1th_worst_rel_l2_of fixradius :   0.0207  index :  3696
+1th_worst_rel_l2_of radius :   0.05184  index :  4041
+
+medium_rel_l2_of fixradius :  0.00472  index :  4074
+medium_rel_l2_of radius :  0.00789  index :  4123
+
+1th_best_rel_l2_of fixradius :   0.00222  index :  4136
+1th_best_rel_l2_of radius :   0.00249  index :  3735
