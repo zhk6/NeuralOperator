@@ -1,0 +1,27 @@
+# 这个字典保存了holeEtching仿真的默认参数
+DEFAULTS = {
+    "D": 2,
+    "lengthUnit": "um",
+    "gridDelta": 0.03,
+    "xExtent": 1.0,
+    "yExtent": 1.0,
+    "holeRadius": 0.175,
+    "maskHeight": 1.2,
+    "taperAngle": 1.193,
+    "processTime": 1,
+    "timeUnit": "min",
+    "ionFlux": 10,
+    "etchantFlux": 4.5e3,
+    "oxygenFlux": 8e2,
+    "ionExponent": 1000,
+    "meanEnergy": 100,
+    "sigmaEnergy": 10,
+    "A_O": 2,
+    "A_Si": 7,
+    "etchStopDepth": -10,
+    "integrationScheme": "EO_1",
+    "raysPerPoint": 1000,
+    "vtpFile": "final.vtp",
+    "txtFile": "final.txt",
+    "logLevel": "ERROR"
+}
