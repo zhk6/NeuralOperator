@@ -1,0 +1,132 @@
+{
+    "False": {
+        "average": {
+            "500": {
+                "fixradius": {
+                    "False": {
+                        "fixradius": 0.00644,
+                        "radius": 0.04815
+                    }
+                },
+                "radius": {
+                    "False": {
+                        "fixradius": 0.0112,
+                        "radius": 0.01229
+                    }
+                },
+                "mixed": {
+                    "False": {
+                        "fixradius": 0.00756,
+                        "radius": 0.01208
+                    }
+                }
+            },
+            "1000": {
+                "fixradius": {
+                    "False": {
+                        "fixradius": 0.00543,
+                        "radius": 0.04795
+                    }
+                },
+                "radius": {
+                    "False": {
+                        "fixradius": 0.00976,
+                        "radius": 0.01026
+                    }
+                },
+                "mixed": {
+                    "False": {
+                        "fixradius": 0.00613,
+                        "radius": 0.01091
+                    }
+                }
+            },
+            "1500": {
+                "fixradius": {
+                    "False": {
+                        "fixradius": 0.00539,
+                        "radius": 0.04804
+                    }
+                },
+                "radius": {
+                    "False": {
+                        "fixradius": 0.01014,
+                        "radius": 0.00983
+                    }
+                },
+                "mixed": {
+                    "False": {
+                        "fixradius": 0.00579,
+                        "radius": 0.01016
+                    }
+                }
+            }
+        },
+        "worst": {
+            "500": {
+                "fixradius": {
+                    "False": {
+                        "fixradius": 0.02505,
+                        "radius": 0.11884
+                    }
+                },
+                "radius": {
+                    "False": {
+                        "fixradius": 0.08502,
+                        "radius": 0.06828
+                    }
+                },
+                "mixed": {
+                    "False": {
+                        "fixradius": 0.10372,
+                        "radius": 0.07195
+                    }
+                }
+            },
+            "1000": {
+                "fixradius": {
+                    "False": {
+                        "fixradius": 0.02186,
+                        "radius": 0.11962
+                    }
+                },
+                "radius": {
+                    "False": {
+                        "fixradius": 0.02359,
+                        "radius": 0.04937
+                    }
+                },
+                "mixed": {
+                    "False": {
+                        "fixradius": 0.02179,
+                        "radius": 0.06112
+                    }
+                }
+            },
+            "1500": {
+                "fixradius": {
+                    "False": {
+                        "fixradius": 0.02191,
+                        "radius": 0.11986
+                    }
+                },
+                "radius": {
+                    "False": {
+                        "fixradius": 0.02813,
+                        "radius": 0.04094
+                    }
+                },
+                "mixed": {
+                    "False": {
+                        "fixradius": 0.0207,
+                        "radius": 0.05184
+                    }
+                }
+            }
+        }
+    },
+    "True": {
+        "average": {},
+        "worst": {}
+    }
+}
